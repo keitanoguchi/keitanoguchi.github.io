@@ -1,6 +1,7 @@
 baseURL: "https://keitanoguchi.github.io/"
 title: ExampleSite
 paginate: 5
+canonifyurls: true
 theme: PaperMod
 publishDir: "docs"
 
